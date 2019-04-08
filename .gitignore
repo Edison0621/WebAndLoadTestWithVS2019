@@ -4,3 +4,5 @@
 /WebAndLoad.ReadTokenFromResponse/obj
 /WebAndLoad.ResponseWithBody/bin
 /WebAndLoad.ResponseWithBody/obj
+/.vs
+/WebAndLoadTestProject.sln.DotSettings.user
