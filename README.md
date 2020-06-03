@@ -1,5 +1,5 @@
 # WebAndLoadTestWithVS2019
-A sample of using visual studio to do performance testing
+A sample of using visual studio 2019 to do performance testing
 
 # Functions
 - Reading data from CSV file
